@@ -2,6 +2,8 @@
 
 <a name="keyvault-rotation-storageaccountkey-powershell"></a>
 
+# Keyvault-Rotation-RedisKey-PowerShell (2022-01-07)
+* Removed HTTP function and ARM templates
 # Keyvault-Rotation-RedisKey-PowerShell (2020-12-22)
 
 *Features*
